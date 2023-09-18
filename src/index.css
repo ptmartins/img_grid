@@ -1,3 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+
+    .absolute-center {
+        position: absolute;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        left: 50%;
+    }
+
+    .overlay {
+        clip-path: polygon(100% 0%, 100% 30%, 82% 100%, 0% 100%, 0% 0%);
+    }
+
+    .overlay-txt {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 20px;
+    }
+ 
+ }

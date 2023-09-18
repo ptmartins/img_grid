@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Ryder Cup",
+        "bg": "/images/golf.jpeg",
+        "logo": "/logos/golf.png",
+        "overlay": "<span>Foobar</span>"
+    },
+    {
+        "id": 2,
+        "title": "Giro d'Italia",
+        "bg": "/images/cycling.jpeg",
+        "logo": "/logos/cycling.png",
+        "overlay": "<span>Foobar</span>"
+    },
+    {
+        "id": 3,
+        "title": "Frank Warren",
+        "bg": "/images/boxing.jpeg",
+        "logo": "/logos/boxing.png",
+        "overlay": "<span>Foobar</span>"
+    },
+    {
+        "id": 4,
+        "title": "The Championships - Wimbledon",
+        "bg": "/images/tennis.jpeg",
+        "logo": "/logos/tennis.png",
+        "overlay": "<span>Foobar</span>"
+    },
+    {
+        "id": 5,
+        "title": "Premier League",
+        "bg": "/images/football.jpeg",
+        "logo": "/logos/football.png",
+        "overlay": "<span>Foobar</span>"
+    },
+    {
+        "id": 6,
+        "title": "World Rugby",
+        "bg": "/images/rugby.jpeg",
+        "logo": "/logos/rugby.png",
+        "overlay": "<span>Foobar</span>"
+    }
+]
